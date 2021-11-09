@@ -38,7 +38,7 @@ body {
 
 .conteudoPrincipal {
 	margin-top: 20px;
-	margin-bottom: 50px;
+	margin-bottom: 20px;
 }
 
 .subtitulo {
@@ -173,7 +173,7 @@ body {
 .videoSobre {
 	background-color: #5E9EDC;
 	padding: 25px 0;
-
+	margin-top: 20px;
 }
 
 .videoSobre-video {
